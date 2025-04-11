@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm LayerEightSec
 
-<!--
-**LayerEightSec/LayerEightSec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Cybersecurity enthusiast focused on blue team ops, threat detection, and network defense. Practicing with Splunk, Wireshark, and hands-on labs. Layer 8 believer — because people are the first line of defense.**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tools & Technologies
+- Splunk
+- Wireshark
+- Metasploit
+- Sysmon
+- VirtualBox
+- Kali Linux
+- Windows 10/11
+- Linux (Ubuntu)
+
+---
+
+### Current Projects
+- Building a home lab for Blue Team defense with Splunk and Sysmon
+- Practicing threat detection with Wireshark packet captures
+- Learning network fundamentals and log analysis
+
+---
+
+### Certifications
+- CompTIA Security+ (2024)
+
+---
+
+### What I'm Learning
+- Detection engineering & threat hunting
+- SIEM tuning and alerting
+- Networking and packet analysis
+- Purple teaming techniques
+
+---
+
+### Connect With Me
+*(Coming soon: portfolio site or resume link)*
