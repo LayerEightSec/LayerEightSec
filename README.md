@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="layereightsec-banner.png" alt="LayerEightSec Banner" width="100%" />
+</p>
+
+<p align="center">
+  <img src="layereightsec-logo.png" alt="LayerEightSec Logo" width="150" />
+</p>
 # Hi, I'm LayerEightSec
 
 **Cybersecurity enthusiast focused on blue team ops, threat detection, and network defense. Practicing with Splunk, Wireshark, and hands-on labs. Layer 8 believer — because people are the first line of defense.**
